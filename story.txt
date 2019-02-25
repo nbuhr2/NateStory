@@ -1,0 +1,6 @@
+This is the story of Nathan. One day he had to display his prowess, or
+lack thereof, of git for a CS 400 assignment. He began by staring blankly
+at the assignment page, opening up mobaXterm, and logging in. Now Nathan
+wasn't a very imaginative person, so he wrote about what he was
+literally doing.
+
